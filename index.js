@@ -19,7 +19,7 @@ client.queue = new Map();
 client.on("ready", () => {
     console.log(`Hi, ${client.user.username} is now online!`);
 
-    client.user.setActivity("+help | MUSIC BOT") 
+    client.user.setActivity("+help | MUSIC BOT",{type: "WATCHING"}) 
 })
 
 client.on("message", async message => {
