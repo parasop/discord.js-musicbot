@@ -15,9 +15,10 @@
     "dotenv": "^8.2.0",
     "ascii-table": "^0.0.9",
     "fs": "^0.0.2",
-    "ytdl-core": "^4.1.1",
+    "ytdl-core": "^4.1.2",
     "simple-youtube-api": "^5.2.1",
-    "@discordjs/opus": "^0.3.2"
+    "@discordjs/opus": "^0.3.2",
+    "opusscript": "^0.0.7"
   },
   "engines": {
     "node": "12.x"
