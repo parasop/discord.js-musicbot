@@ -10,3 +10,9 @@ A POWERFUL DISCORD MUSIC BOT BY PARAS
 
 SUPPORT SERVER 
 https://discord.gg/akYvjDK
+
+
+
+```MAKE SURE TO CHECK YOU HAVE PUT
+client.queue = new Map()
+in your Main file```
