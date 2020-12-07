@@ -1,6 +1,6 @@
 const { MessageEmbed, Util } = require("discord.js");
 const YouTube = require("simple-youtube-api");
-const youtube = new YouTube(process.env.YTAPI);
+const youtube = new YouTube(process.env.API);
 const ytdl = require("ytdl-core");
 
 module.exports = {
