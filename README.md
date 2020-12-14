@@ -13,5 +13,5 @@ https://discord.gg/akYvjDK
 
 
 MAKE SURE TO CHECK YOU HAVE PUT
-```client.queue = new Map()
-in your Main file```
+```client.queue = new Map()```
+in your Main file
