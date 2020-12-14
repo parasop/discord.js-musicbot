@@ -1,12 +1,11 @@
-# discord.js-musicbot-letest
+# discord.js-musicbot
 A LATEST DISCORD.JS MUSIC BOT 
 A POWERFUL DISCORD MUSIC BOT BY PARAS
 
 
 .env
 ```TOKEN = XXXXXXXX```
-```API  = YT API KEY```
-
+NO YT API REQUIRED 
 
 SUPPORT SERVER 
 https://discord.gg/akYvjDK
